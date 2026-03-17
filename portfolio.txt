@@ -1,0 +1,4 @@
+Stock Portfolio
+AAPL 2 180 360
+AMZN 4 135 540
+Total 900
